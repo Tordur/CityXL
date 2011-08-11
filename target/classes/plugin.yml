@@ -1,0 +1,8 @@
+author: Tordur
+database: false
+description: A plugin designed to make city and townmaking easier.
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: me.tordur.plugins.cityxl.Cityxl
+name: CityXL
+startup: postworld
+version: '0.1'
